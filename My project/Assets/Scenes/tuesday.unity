@@ -246,7 +246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac16bb25fc8ce1146a8d7d2872f2d2c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogSystem: {fileID: 0}
+  dialogSystem: {fileID: 1239093534}
 --- !u!4 &620178905
 Transform:
   m_ObjectHideFlags: 0

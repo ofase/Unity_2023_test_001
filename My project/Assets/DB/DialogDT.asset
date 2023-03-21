@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d25396e4ce0c14ebbe58dfba74b95f, type: 3}
+  m_Name: DialogDT
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - index: 0
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B81"
+      characterPath: 
+      tweenType: 0
+      nextindex: 1
+    - index: 1
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B82"
+      characterPath: 
+      tweenType: 0
+      nextindex: 2
+    - index: 2
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B83"
+      characterPath: 
+      tweenType: 0
+      nextindex: 3
+    - index: 3
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B84"
+      characterPath: 
+      tweenType: 0
+      nextindex: 4
+    - index: 4
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B85"
+      characterPath: 
+      tweenType: 0
+      nextindex: 5
+    - index: 5
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B86"
+      characterPath: 
+      tweenType: 0
+      nextindex: 6
+    - index: 6
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B87"
+      characterPath: 
+      tweenType: 0
+      nextindex: 7
+    - index: 7
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B88"
+      characterPath: 
+      tweenType: 0
+      nextindex: 8
+    - index: 8
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B89"
+      characterPath: 
+      tweenType: 0
+      nextindex: 9
+    - index: 9
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B810"
+      characterPath: 
+      tweenType: 0
+      nextindex: 10
+    - index: 10
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B811"
+      characterPath: 
+      tweenType: 0
+      nextindex: 11
+    - index: 11
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B812"
+      characterPath: 
+      tweenType: 0
+      nextindex: 12
+    - index: 12
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B813"
+      characterPath: 
+      tweenType: 0
+      nextindex: 13
+    - index: 13
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B814"
+      characterPath: 
+      tweenType: 0
+      nextindex: 14
+    - index: 14
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B815"
+      characterPath: 
+      tweenType: 0
+      nextindex: 15
+    - index: 15
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B816"
+      characterPath: 
+      tweenType: 0
+      nextindex: 16
+    - index: 16
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B817"
+      characterPath: 
+      tweenType: 0
+      nextindex: 17
+    - index: 17
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B818"
+      characterPath: 
+      tweenType: 0
+      nextindex: 18
+    - index: 18
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B819"
+      characterPath: 
+      tweenType: 0
+      nextindex: 19
+    - index: 19
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B820"
+      characterPath: 
+      tweenType: 0
+      nextindex: 20
+    - index: 20
+      speakerUIindex: 0
+      name: "\uC774\uB984"
+      dialogue: "\uD14C\uC2A4\uD2B821"
+      characterPath: 
+      tweenType: 0
+      nextindex: 21
