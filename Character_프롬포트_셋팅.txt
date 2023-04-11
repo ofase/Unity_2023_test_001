@@ -1,0 +1,3 @@
+textless, (high_resolution:1.4), (high_quality:1.4), masterpiece, best quality, 1girl, two tone hair
+Negative prompt: worst quality, low quality, (Low_resolution:1.3),(Low_picture_quality:1.3), missing_arms, missing_hands, missing_fingers, missing_legs, nsfw
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1369013715, Size: 512x512, Model hash: d01a68ae76, Model: pastelMixStylizedAnime_pastelMixPrunedFP16, Denoising strength: 0.4
