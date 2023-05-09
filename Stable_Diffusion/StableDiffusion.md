@@ -84,3 +84,13 @@ prompt:
 
 ![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Openpose_Before.png?raw=true)
 ![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Openpose_After.png?raw=true)
+
+# Reginal Prompter
+
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/00038-3874773259.png?raw=true)
+
+# Dynamic Prompts (WildCard)
+
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/00061-1182021441.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/00062-2753919386.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/00060-3544478864.png?raw=true)
