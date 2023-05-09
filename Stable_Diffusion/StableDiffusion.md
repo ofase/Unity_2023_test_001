@@ -58,3 +58,29 @@ prompt:
 
 > Low_picture_quality, blurry
 
+
+# Fix2Fix
+
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Fix2Fix_Before.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Fix2Fix_After.png?raw=true)
+
+
+# Tile
+
+![image](?raw=true)
+![image](?raw=true)
+
+# Depth
+
+![image](?raw=true)
+![image](?raw=true)
+
+# Seg
+
+![image](?raw=true)
+![image](?raw=true)
+
+# OpenPose
+
+![image](?raw=true)
+![image](?raw=true)
