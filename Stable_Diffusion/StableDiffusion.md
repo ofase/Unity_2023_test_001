@@ -67,20 +67,20 @@ prompt:
 
 # Tile
 
-![image](?raw=true)
-![image](?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Tile_Before.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Tile_After.png?raw=true)
 
 # Depth
 
-![image](?raw=true)
-![image](?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Depth_Before.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Depth_After.png?raw=true)
 
 # Seg
 
-![image](?raw=true)
-![image](?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Seg_Before.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Seg_After.png?raw=true)
 
 # OpenPose
 
-![image](?raw=true)
-![image](?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Openpose_Before.png?raw=true)
+![image](https://github.com/ofase/Unity_2023_test_001/blob/main/Stable_Diffusion/ControlNet/Openpose_After.png?raw=true)
